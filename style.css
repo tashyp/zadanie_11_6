@@ -1,0 +1,13 @@
+body {
+	background-color: #F2F2F2;
+}
+h1 {
+  text-align: center;
+  }
+.button-center {
+  text-align: center;
+}
+.column-position {
+  display: flex;
+  justify-content: space-around;
+}
